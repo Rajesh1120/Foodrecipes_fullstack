@@ -1,4 +1,4 @@
-
+D:\rajesh\js\React\completed_projects\foodorder\reactfood.mp4
 #### Project Overview
 
 React Foods is a comprehensive food recipe website that offers users a vast collection of food recipes from various cuisines. The platform provides detailed recipe instructions, ingredient lists, and cooking tips, helping users to prepare delicious meals at home. Users can browse, search, and filter recipes based on their preferences. Additionally, Foodie Haven features a robust shopping cart and checkout system, enabling users to purchase ingredients directly from the site. The backend of the application is powered by Node.js, ensuring efficient data management and seamless user experience.
